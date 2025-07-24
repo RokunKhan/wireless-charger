@@ -20,3 +20,8 @@ Images and index.html page show the working demo and steps.
 - Circuit design
 - Breadboarding
 - Wireless energy transfer
+
+![Breadboard Setup](images/resized_07A9B729-532C-4528-B6C7-7049F4D98275.jpeg)
+
+![Circuit View](images/resized_8B192997-A8D3-4312-BD3C-94C1C65ED08A.jpeg)
+
